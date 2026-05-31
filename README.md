@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mahalakshmic&label=Profile+Views&color=70a5fd&style=flat-square" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=Mahalakshmi-2001&label=Profile+Views&color=70a5fd&style=flat-square" alt="Profile Views"/>
   <img src="https://img.shields.io/badge/Location-Coimbatore%2C%20India-38bdae?style=flat-square&logo=googlemaps&logoColor=white"/>
   <img src="https://img.shields.io/badge/Experience-3%20Years-bf91f3?style=flat-square&logo=lightning&logoColor=white"/>
   <img src="https://img.shields.io/badge/Open%20to-Opportunities-70a5fd?style=flat-square&logo=handshake&logoColor=white"/>
@@ -100,11 +100,11 @@ print(me.motto())
 ## 📊 GitHub Stats
 
 <div align="center">
-  <a href="https://github.com/mahalakshmic">
-    <img height="170" src="https://github-readme-stats.vercel.app/api?username=mahalakshmic&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10" alt="GitHub Stats"/>
+  <a href="https://github.com/Mahalakshmi-2001">
+    <img height="170" src="https://github-readme-stats.vercel.app/api?username=Mahalakshmi-2001&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10" alt="GitHub Stats"/>
   </a>
-  <a href="https://github.com/mahalakshmic">
-    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahalakshmic&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10" alt="Top Languages"/>
+  <a href="https://github.com/Mahalakshmi-2001">
+    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mahalakshmi-2001&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10" alt="Top Languages"/>
   </a>
 </div>
 
@@ -113,7 +113,7 @@ print(me.motto())
 ## 🔥 Streak Stats
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=mahalakshmic&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com?user=Mahalakshmi-2001&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10" alt="GitHub Streak"/>
 </div>
 
 ---
@@ -121,7 +121,7 @@ print(me.motto())
 ## 📈 Activity Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mahalakshmic&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" alt="Activity Graph" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mahalakshmi-2001&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" alt="Activity Graph" width="100%"/>
 </div>
 
 ---
@@ -129,7 +129,7 @@ print(me.motto())
 ## 🏆 Trophy Wall
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mahalakshmic&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4" alt="Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Mahalakshmi-2001&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4" alt="Trophies"/>
 </div>
 
 ---
@@ -228,10 +228,10 @@ print(me.motto())
   <a href="mailto:mahalakshmi.chellaperumal@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
-  <a href="https://www.linkedin.com/in/mahalakshmi-c">
+  <a href="https://www.linkedin.com/in/mahalakshmi-chellaperumal">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://github.com/mahalakshmic">
+  <a href="https://github.com/Mahalakshmi-2001">
     <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </p>
