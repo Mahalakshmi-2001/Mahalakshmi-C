@@ -228,7 +228,7 @@ print(me.motto())
   <a href="mailto:mahalakshmi.chellaperumal@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
-  <a href="https://www.linkedin.com/in/mahalakshmi-chellaperumal">
+  <a href="https://www.linkedin.com/in/mahalakshmi-c-762930222/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://github.com/Mahalakshmi-2001">
