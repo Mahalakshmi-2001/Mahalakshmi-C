@@ -100,9 +100,9 @@ print(me.motto())
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Mahalakshmi-2001&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10" alt="GitHub Stats"/>
+  <img src="https://github-stats.vercel.app/api?username=Mahalakshmi-2001&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9" alt="GitHub Stats" height="165"/>
   &nbsp;
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mahalakshmi-2001&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10" alt="Top Languages"/>
+  <img src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=Mahalakshmi-2001&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8" alt="Top Languages" height="165"/>
 </div>
 
 ---
@@ -126,7 +126,14 @@ print(me.motto())
 ## 🏆 Trophy Wall
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Mahalakshmi-2001&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6&margin-w=6" alt="Trophies"/>
+
+![Followers](https://img.shields.io/github/followers/Mahalakshmi-2001?label=Followers&style=for-the-badge&color=70a5fd&labelColor=0d1117&logo=github)
+![Stars](https://img.shields.io/github/stars/Mahalakshmi-2001?label=Stars&style=for-the-badge&color=bf91f3&labelColor=0d1117&logo=github)
+![Repos](https://img.shields.io/badge/Repos-Visit%20Profile-38bdae?style=for-the-badge&logo=github&labelColor=0d1117)
+![Python](https://img.shields.io/badge/Python-Expert-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=0d1117)
+![Backend](https://img.shields.io/badge/Backend-3%20Years-70a5fd?style=for-the-badge&logo=django&logoColor=white&labelColor=0d1117)
+![APIs](https://img.shields.io/badge/REST%20APIs-Production-bf91f3?style=for-the-badge&logo=fastapi&logoColor=white&labelColor=0d1117)
+
 </div>
 
 ---
